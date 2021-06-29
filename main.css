@@ -1,0 +1,31 @@
+.container{
+    margin-bottom: 50px;
+}
+.bg{
+    background-color:#F0FFF0;
+}
+.img img{
+    width: 120px;
+    height: 40px;
+}
+.buto{
+    border-radius: 50px;
+}
+.sche{
+    color: green;
+}
+h6{
+    color: yellowgreen;
+}
+.buto2{
+    border-radius: 50px;
+    font-family: serif;
+    font-size: 16px;
+}
+.row .col-xl-3 img{
+    padding: 70px;
+}
+.row .pic .col-md-6 img{
+    padding:400px;
+    width: 100%;
+}
